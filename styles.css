@@ -255,3 +255,17 @@ p {
 .hosting-link-item a {
     color: inherit;
 }
+
+.airbnb-links {
+    list-style-type: none;
+    line-height: 35px;
+    margin-left: -40px;
+}
+
+.airbnb-link-item {
+    color:#383838;
+}
+
+.airbnb-link-item a {
+    color: inherit;
+}
