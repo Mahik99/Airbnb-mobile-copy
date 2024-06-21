@@ -165,3 +165,35 @@ main {
     margin: 5px 0;
     color: #383838;
 }
+
+section {
+    background-color: rgb(243, 240, 240);
+}
+
+.container {
+    padding: 10px;
+}
+
+.inspiration-section {
+    margin-bottom: 10px;
+}
+
+.section-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.tabs {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.tab {
+    cursor: pointer;
+    padding-bottom: 5px;
+}
+
+.tab-active {
+    border-bottom: 2px solid black;
+}
