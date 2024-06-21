@@ -112,3 +112,56 @@ header {
     color: red !important;
     }
     
+main {
+    padding: 160px 40px 40px; 
+}
+
+.listing {
+    margin-bottom: 20px;
+}
+
+.listing-image {
+    position: relative;
+}
+
+.listing-image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.live-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.share-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: transparent;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 25px;
+    height: 25px;
+}
+
+.listing-info {
+    margin-top: 10px;
+}
+
+.listing-info h2 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.listing-info p {
+    margin: 5px 0;
+    color: #383838;
+}
