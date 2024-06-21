@@ -227,3 +227,17 @@ p {
     flex: 50%; 
     box-sizing: border-box;
 }
+
+.support-links {
+    list-style-type: none;
+    line-height: 35px;
+    margin-left: -40px;
+}
+
+.support-link-item {
+    color:#383838;
+}
+
+.support-link-item a {
+    color: inherit;
+}
