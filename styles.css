@@ -199,7 +199,7 @@ section {
 }
 
 hr.solid {
-    border-top: 3px solid #bbb;
+    border-top: 2px solid #bbb;
   }
 
 a:link {
@@ -268,4 +268,29 @@ p {
 
 .airbnb-link-item a {
     color: inherit;
+}
+
+.copyright-info {
+    margin: 10px;
+    margin-left: 0px;
+    color:#383838;
+}
+
+.country-setting span {
+    margin-right: 40px; 
+}
+
+.final-footer-links {
+    padding: 5px; 
+    margin: 5px; 
+}
+
+.final-footer-link-item {
+    display: inline-block;
+    margin-right: 15px; 
+    line-height: 1.5;
+    }
+
+.final-footer-links a:hover {
+    text-decoration: underline;
 }
