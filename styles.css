@@ -76,3 +76,39 @@ header {
     height: 30px;
     margin-bottom: 10px;
 }
+
+.footer-nav {
+    position: fixed;
+    bottom: 0; 
+    width: 100%;
+    background-color: white; 
+    padding: 10px 0; 
+    text-align: center; 
+    z-index: 1; 
+    display: flex;
+    justify-content: space-around;
+    margin-left: -50px;
+    }
+    
+.footer-nav a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #bbb;
+    flex: 1;
+    }
+    
+.footer-nav-icon {
+    font-size: 20px; 
+    margin-bottom: 5px; 
+    }
+    
+.footer-nav-button-label {
+    font-size: 10px; 
+    }
+    
+.explore-nav {
+    color: red !important;
+    }
+    
