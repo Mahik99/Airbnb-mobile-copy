@@ -241,3 +241,17 @@ p {
 .support-link-item a {
     color: inherit;
 }
+
+.hosting-links {
+    list-style-type: none;
+    line-height: 35px;
+    margin-left: -40px;
+}
+
+.hosting-link-item {
+    color:#383838;
+}
+
+.hosting-link-item a {
+    color: inherit;
+}
