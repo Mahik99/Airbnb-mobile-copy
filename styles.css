@@ -197,3 +197,33 @@ section {
 .tab-active {
     border-bottom: 2px solid black;
 }
+
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+a:link {
+    color: black; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+p {
+    color:#383838;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column {
+    flex: 50%; 
+    box-sizing: border-box;
+}
