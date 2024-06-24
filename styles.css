@@ -108,8 +108,8 @@ header {
     font-size: 10px; 
     }
     
-.explore-nav {
-    color: #FF0000 !important;
+.footer-nav a.explore-nav {
+    color: #FF0000;
     }
     
 main {
