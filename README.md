@@ -11,11 +11,11 @@ CSS: Implemented to style the site and make it look similiar to the original Air
 
 ## Overview of project:
 
-![App screenhot](/screenshots/homepage.png)
+<img src="https://github.com/Mahik99/Airbnb-mobile-copy/blob/main/screenshots/homepage.png" alt="homepage" width="500" height="960">
 
-![App screenhot](/screenshots/main.png)
+<img src="https://github.com/Mahik99/Airbnb-mobile-copy/blob/main/screenshots/main.png" alt="homepage" width="500" height="960">
 
-![App screenhot](/screenshots/footer.png)
+<img src="https://github.com/Mahik99/Airbnb-mobile-copy/blob/main/screenshots/footer.png" alt="homepage" width="500" height="960">
 
 ## Installation Instructions:
 
