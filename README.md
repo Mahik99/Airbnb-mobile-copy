@@ -11,11 +11,8 @@ CSS: Implemented to style the site and make it look similiar to the original Air
 
 ## Overview of project:
 
-<img src="https://github.com/Mahik99/Airbnb-mobile-copy/blob/main/screenshots/homepage.png" alt="homepage" width="500" height="960">
+<img src="https://github.com/Mahik99/Airbnb-mobile-copy/blob/main/screenshots/homepage.png" alt="homepage" width="500" height="900"><img src="https://github.com/Mahik99/Airbnb-mobile-copy/blob/main/screenshots/main.png" alt="main section" width="450" height="900">
 
-<img src="https://github.com/Mahik99/Airbnb-mobile-copy/blob/main/screenshots/main.png" alt="homepage" width="500" height="960">
-
-<img src="https://github.com/Mahik99/Airbnb-mobile-copy/blob/main/screenshots/footer.png" alt="homepage" width="500" height="960">
 
 ## Installation Instructions:
 
